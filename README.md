@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=kb1337&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark&card_width=500" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=kb1337&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark&cache_seconds=1800" /></p>
 
 <img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=kb1337&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10&card_width=1000" />
 
