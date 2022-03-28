@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="">
-<img align="center"  height="230" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=kb1337&layout=demo&theme=vision-friendly-dark&hide_border=true&langs_count=10&card_width=400" />
+<img align="center"  height="230" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=kb1337&layout=demo&theme=vision-friendly-dark&hide_border=true&langs_count=10&card_width=350" />
 <a/>
 <a href="">
 <img align="center" height="230" src="https://github-readme-streak-stats.herokuapp.com?user=kb1337&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
